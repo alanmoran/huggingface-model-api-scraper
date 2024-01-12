@@ -1,0 +1,2 @@
+export const HUGGING_FACE_ACCESS_TOKEN = process.env.HUGGING_FACE_ACCESS_TOKEN;
+export const HUGGING_FACE_HUB_URL = process.env.HUGGING_FACE_HUB_URL;
